@@ -1,1 +1,1 @@
-# infosecprogram
+# Quantum Financials Information Security Policy 
