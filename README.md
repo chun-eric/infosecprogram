@@ -69,6 +69,8 @@ The full Information Security will be uplodaed as a pdf in this git repo once it
 
 Below are some sample screenshots. 
 <br/>
+<br/>
+<br/>
 <a href="https://ibb.co/mDqG3KR"><img src="https://i.ibb.co/VjStsGL/1.png" alt="1" border="0"></a>
 <a href="https://ibb.co/KNKgs8C"><img src="https://i.ibb.co/q0J8g2b/2.png" alt="2" border="0"></a>
 <a href="https://ibb.co/qrR5ZWq"><img src="https://i.ibb.co/5R5F7np/3.png" alt="3" border="0"></a>
