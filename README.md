@@ -11,7 +11,8 @@ Quantum Financials is a medium sized global financial brokerage trading company.
 <br/>
 
 ## Step 1 - Purpose and Scope of the Information Security Policy
-
+* Purpose: Establish why the organization needs an information security policy. Typically, the purpose includes protecting information assets from threats, ensuring business continuity, and meeting regulatory requirements.
+* Scope: Determine which parts of the organization the policy will cover. This can include all departments, personnel, and technologies.
 
 <br/>
 
@@ -23,15 +24,17 @@ Quantum Financials is a medium sized global financial brokerage trading company.
 
 ## Step 3 - Developing Security Policies, Procedures and Standards 
 
-* Technical Controls: Deploy firewalls, antivirus software, intrusion detection systems, and other technologies to protect information systems.
-* Physical Controls: Secure physical access to buildings and computer rooms.
-* Administrative Controls: Implement training programs, conduct background checks, and establish security governance.
+* Draft Policies: Create documents that define the organization’s stance on managing various information security aspects, such as access control, data encryption, and physical security.
+* Set Standards: Develop detailed standards that describe how policies will be implemented in specific areas like network security protocols, software development, and disaster recovery.
 
 
 <br/>
 
 ## Step 4 - Adding security controls
- 
+
+* Technical Controls: Deploy firewalls, antivirus software, intrusion detection systems, and other technologies to protect information systems.
+* Physical Controls: Secure physical access to buildings and computer rooms.
+* Administrative Controls: Implement training programs, conduct background checks, and establish security governance.
 
 <br/>
 
