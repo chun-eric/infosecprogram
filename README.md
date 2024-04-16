@@ -51,7 +51,8 @@ Quantum Financials is a medium sized global financial brokerage trading company.
 
 ## Step 8 - Update and Improve
 
-
+* Feedback Mechanism: Implement mechanisms for receiving feedback on the security measures from employees, customers, and vendors.
+* Continuous Improvement: Apply a continuous improvement approach to the security program, updating it based on new threats, business changes, and technological advancements.
 
 
 ## Step 9 - Document and Communicate
