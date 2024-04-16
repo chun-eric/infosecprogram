@@ -23,6 +23,9 @@ Quantum Financials is a medium sized global financial brokerage trading company.
 
 ## Step 3 - Developing Security Policies, Procedures and Standards 
 
+* Technical Controls: Deploy firewalls, antivirus software, intrusion detection systems, and other technologies to protect information systems.
+* Physical Controls: Secure physical access to buildings and computer rooms.
+* Administrative Controls: Implement training programs, conduct background checks, and establish security governance.
 
 
 <br/>
