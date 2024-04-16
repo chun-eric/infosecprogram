@@ -4,7 +4,7 @@
 ### The final Information Security Policy will be uploaded in this repository once it has been completed..
 
 ## Background
-Quantum Financials is a medium sized global financial brokerage trading company. They provide customers 
+Quantum Financials is a medium sized global financial brokerage trading company. [Add more detailed background information here.]
 
 
 
