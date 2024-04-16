@@ -16,7 +16,7 @@ Quantum Financials is a medium sized global financial brokerage trading company.
 
 <br/>
 
-## Step 2 - What security framework to choose?
+## Step 2 - Which security framework to choose?
 
 
 
